@@ -1,0 +1,6 @@
+x = skalise("Poses mpananes tha faei o Thiodor ")
+
+skarfalwnontas x>0
+fwnakse("Tio fae mia mpanana")
+x = x -1
+miaou
